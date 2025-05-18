@@ -1,0 +1,17 @@
+ h1{color: rgb(189, 39, 39); font-size: 50px;}
+body{background-color: #7fffd4;}
+     p{text-align: center;}
+  h1{text-align: center;}
+  .minha-classe{font-size:30px;}
+    a {
+            color: blue; /* cor normal */
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: red; /* cor ao passar o mouse */
+        }
+       .Russia{color: blue;}
+       .Paris{color: blueviolet;}
+       .china{color: brown;}
+       .talvez{font-size: 50p;}
